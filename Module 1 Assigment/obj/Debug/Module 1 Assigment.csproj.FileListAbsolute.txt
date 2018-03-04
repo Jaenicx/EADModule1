@@ -1,0 +1,10 @@
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\bin\Debug\Module 1 Assigment.exe.config
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\bin\Debug\Module 1 Assigment.exe
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\bin\Debug\Module 1 Assigment.pdb
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\obj\Debug\Module 1 Assigment.csprojResolveAssemblyReference.cache
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\obj\Debug\Module_1_Assigment.Form1.resources
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\obj\Debug\Module_1_Assigment.Properties.Resources.resources
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\obj\Debug\Module 1 Assigment.csproj.GenerateResource.Cache
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\obj\Debug\Module 1 Assigment.csproj.CoreCompileInputs.cache
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\obj\Debug\Module 1 Assigment.exe
+C:\Users\{H4x}Jaenicx\Documents\VTDI\Year 2\Semester 2\Enterprise Application Development\Module 1 Assigment\Module 1 Assigment\obj\Debug\Module 1 Assigment.pdb
